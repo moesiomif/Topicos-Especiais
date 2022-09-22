@@ -1,8 +1,8 @@
 <table>
   <tr>
    	 <td>
-	     <img width="150" height="100" src="https://github.com/moesiomif/topicos-Especiais/Imagens/logo_ifce_crato.png">
-	</td>
+             <img width="150" height="100" src="https://github.com/moesiomif/Discreta-2022/blob/main/Aula-1/Imagens/Crato_IF2.png">
+	    </td>
         <td> 
 <main>
 	
@@ -11,8 +11,6 @@
 #  Sistemas de Informação
 
 </main>
-	</td>
-  </tr>
 </table>
 
 # TÓPICOS ESPECIAIS EM SISTEMAS DE INFORMAÇÕESTÓPICOS ESPECIAIS EM SISTEMAS DE INFORMAÇÕES - IFCE
